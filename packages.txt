@@ -1,4 +1,3 @@
-:: Install all the packages
 #Browsers
 firefox
 
